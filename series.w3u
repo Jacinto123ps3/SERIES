@@ -4,20 +4,58 @@
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "url": "https://listaserieprueba.vercel.app/RECETAS.m3u",
 "groups": 
+	
 	[
-
-	{
-"name": "CAPITULO 1",
-"image": "https://pics.filmaffinity.com/the_8_show-257378497-large.jpg",
-"url": "https://listeamed.net/v/kKJVORKW2L153XD",
-"info": "[Español 2024]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
-},
-			
-
-	]
-}
+ 		{
+		"name": "Temporada 01",
+ 		"image": "https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"[Espa帽ol]",
+ 				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+ 				"url":"https://nathanfromsubject.com/hnpxywhsccdi",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"[Espa帽ol]",
+				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+				"url":"https://nathanfromsubject.com/5elw0tuvah3i",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"[Espa帽ol]",
+				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+				"url":"https://nathanfromsubject.com/ioat28ivte95",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"[Espa帽ol]",
+				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+				"url":"https://nathanfromsubject.com/uuscpwvvaqi5",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"[Espa帽ol]",
+				"image":"https://i.postimg.cc/J0DvnLbs/cuando.jpg",
+				"url":"https://nathanfromsubject.com/z7doejiaeh4p",
+          		"userAgent": "PlusMediaPlayer/0.0.9",
+				"isHost":"true",
+				"online":"true"
+				}
+]
