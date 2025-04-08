@@ -1,6 +1,6 @@
 {
 "name": "Series",
-"author": "Jacinto123ps3",
+"author": "Jacinto123ps4",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "url": "https://series1.vercel.app//serie.m3u",
 "groups": 
